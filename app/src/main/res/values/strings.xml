@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">team13_非熱點地點排序</string>
+    <string name="Total">累計</string>
+    <string name="Today">當日</string>
+    <string name="Date_1">2021/6/19</string>
+    <string name="Date_2">2021/6/20</string>
+    <string name="Date_3">2021/6/21</string>
+
+    <string name="Total_Date_1">2021/6/19</string>
+    <string name="Total_Date_2">2021/6/20</string>
+    <string name="Total_Date_3">2021/6/21</string>
+
+    <string name="Today_Date_1">2021/6/19</string>
+    <string name="Today_Date_2">2021/6/20</string>
+    <string name="Today_Date_3">2021/6/21</string>
+
+    <string name="Do">查詢</string>
+</resources>
